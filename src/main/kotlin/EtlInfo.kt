@@ -1,0 +1,1 @@
+data class EtlInfo (val groupId : String, val accountInfo : MutableMap<String,Any> , val groupInfo : MutableMap<String,Any>)
